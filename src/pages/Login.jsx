@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { LockClosedIcon } from '@heroicons/react/20/solid'
-import logosioma from '../assets/eagle.png'
+import logosioma from '../assets/broncos.png'
 
 const Login = () => {
     return (
