@@ -7,6 +7,7 @@ import Login from './pages/Login'
 import Registro from './pages/usuario/Registro'
 import OlvidePassword from './pages/usuario/OlvidePassword'
 import Confirmar from './pages/usuario/Confirmar'
+import './App.css'
 
 function App() {
 

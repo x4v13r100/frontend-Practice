@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { LockClosedIcon } from '@heroicons/react/20/solid'
-import logosioma from '../assets/logo.png'
+import logosioma from '../assets/eagle.png'
 
 const Login = () => {
     return (
@@ -18,7 +18,7 @@ const Login = () => {
                 <div className="w-full max-w-md space-y-8">
                     <div>
                         <img
-                            className="mx-auto h-14 w-auto"
+                            className="mx-auto h-14 w-auto zoomLogo"
                             src={logosioma}
                             alt="Your Company"
                         />
