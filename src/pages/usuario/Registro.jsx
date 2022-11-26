@@ -5,7 +5,7 @@ const Registro = () => {
     return (
 
         <>
-            <div className="flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+            <div className="flex min-h-full items-center justify-center py-20 px-4 sm:px-6 lg:px-8">
                 <div className="hidden sm:block" aria-hidden="true">
                     <div className="py-5">
                         <div className="border-t border-gray-200" />
@@ -16,12 +16,12 @@ const Registro = () => {
                     <div className="md:grid md:grid-cols-3 md:gap-6">
                         <div className="md:col-span-1">
                             <div className="px-4 sm:px-0">
-                                <h3 className="text-lg font-medium leading-6 text-gray-900">Registrar Nuevo Usuario</h3>
-                                <p className="mt-1 text-sm text-gray-600">Ingresar por favor los datos del nuevo usuario</p>
+                                <h3 className="text-lg font-medium leading-6 text-gray-900">Registrar Nuevo Usuario.</h3>
+                                <p className="mt-1 text-sm text-gray-600">Ingresar por favor los datos del nuevo usuario.</p>
                                 <br/>
-                                <Link to="/" className='font-medium text-indigo-600 hover:text-indigo-500'>Ya tengo cuenta</Link>
+                                <Link to="/" className='font-medium text-indigo-700 hover:text-indigo-500'>Ya tengo cuenta.</Link>
                                 <br/>
-                                <Link to="/olvide-password" className="font-medium text-indigo-600 hover:text-indigo-500">Olvide mi password.</Link>
+                                <Link to="/olvide-password" className="font-medium text-indigo-700 hover:text-indigo-500">Olvide mi password.</Link>
                             </div>
                         </div>
                         <div className="mt-5 md:col-span-2 md:mt-0">
