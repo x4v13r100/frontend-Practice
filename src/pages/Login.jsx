@@ -78,7 +78,7 @@ const Login = () => {
                             </div>
 
                             <div className="text-sm">
-                            <Link to="/olvide-password" className="font-medium text-indigo-600 hover:text-indigo-500">Olvide mi password.</Link>
+                            <Link to="/olvide-password" className="font-medium text-indigo-600 hover:text-indigo-500">Olvidé mi password.</Link>
                             </div>
                         </div>
                         
